@@ -1,6 +1,7 @@
 # Hi there, I'm Ajay Kumar Mishra! 👋
 
-https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white
+<img width="428" height="517" alt="image" src="https://github.com/user-attachments/assets/7acd2fe3-c6a1-43ce-9490-dd3ee31a048b" />
+
 
 ## About Me 🚀
 
@@ -15,6 +16,8 @@ I'm a passionate **[Data & AI / Tech lead]** with experience in **[Spark, Scala,
 ## My Skills 🧠
 
 🤖 Artificial Intelligence
+
+
 ![HUGGINGFACE](https://img.shields.io/badge/-HuggingFace-FDEE21?style=for-the-badge&logo=HuggingFace&logoColor=black)
 ![KERAS](https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white)
 ![LANGCHAIN](https://img.shields.io/badge/langchain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
@@ -27,6 +30,8 @@ I'm a passionate **[Data & AI / Tech lead]** with experience in **[Spark, Scala,
 
 
 ☁ Cloud
+
+
 ![AMAZON WEB SERVICES](https://img.shields.io/badge/Amazon_Web_Services-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 ![AZURE DEVOPS](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
 ![AZURE FUNCTIONS](https://img.shields.io/badge/Azure_Functions-0062AD?style=for-the-badge&logo=azure-functions&logoColor=white)
@@ -35,6 +40,8 @@ I'm a passionate **[Data & AI / Tech lead]** with experience in **[Spark, Scala,
 
 
 🌐 ETL
+
+
 ![DATABRICKS](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=Databricks&logoColor=white)
 ![DBT](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
 
@@ -43,6 +50,8 @@ I'm a passionate **[Data & AI / Tech lead]** with experience in **[Spark, Scala,
 
 
 🚀 Frameworks & Library
+
+
 ![APACHE MAVEN](https://img.shields.io/badge/apache_maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
 ![APACHE SPARK](https://img.shields.io/badge/Apache_Spark-FFFFFF?style=for-the-badge&logo=apachespark&logoColor=#E35A16)
 ![DOCKER](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
