@@ -12,6 +12,8 @@ I'm a passionate **[Data & AI / Tech lead]** with experience in **[Spark, Scala,
 - 🌍 Languages: **[Java, Python, Scala]**
 - 📫 How to reach me: **[adhyanshourya@gmail.com]**
 - ⚡ Fun fact: **[Love to research]**
+- <img width="63" height="58" alt="image" src="https://github.com/user-attachments/assets/6b5185da-dc4c-48ce-9d3d-dd792e2e565b" /> https://huggingface.co/amishra22/distilroberta-ai-job-embeddings
+
 
 ## My Skills 🧠
 
