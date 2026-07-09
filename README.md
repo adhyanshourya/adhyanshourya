@@ -7,7 +7,7 @@
 
 I'm a passionate **[Data & AI / Tech lead]** with experience in **[Spark, Scala, Java, Python, TensorFlow, Keras, Pytorch, Weights & Bias, HuggingFace, Langchain, LangGraph, LangSmith, Phidata, Travily]**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
-- 🌱 Currently learning/research: **[Diffusion models ]**
+- 🌱 Currently researching: **[Scalability Across Modalities in Diffusion models]**
 - 🔭 Working on: **[Integrating MS Foundry models to Azure DevOps and Databricks Genie Integration with External agents orchestrations in Client project]**
 - 🌍 Languages: **[Java, Python, Scala]**
 - 📫 How to reach me: **[adhyanshourya@gmail.com]**
