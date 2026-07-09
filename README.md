@@ -10,7 +10,7 @@ I'm a passionate **[Data & AI / Tech lead]** with experience in **[Spark, Scala,
 - 🌱 Currently researching: **[Scalability Across Modalities in Diffusion models]**
 - 🔭 Working on: **[Integrating MS Foundry models to Azure DevOps and Databricks Genie Integration with External agents orchestrations in Client project]**
 - 🌍 Languages: **[Java, Python, Scala]**
-- 📫 How to reach me: **[adhyanshourya@gmail.com]**
+- 📫 How to reach me: **[ajayhaldia.mishra4@gmail.com]**
 - ⚡ Fun fact: **[Love to research]**
 - <img width="15" height="15" alt="image" src="https://github.com/user-attachments/assets/6b5185da-dc4c-48ce-9d3d-dd792e2e565b" /> My distilation model deployed in open source https://huggingface.co/amishra22/distilroberta-ai-job-embeddings
 
