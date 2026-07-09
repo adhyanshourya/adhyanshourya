@@ -1,6 +1,6 @@
 # Hi there, I'm Ajay Kumar Mishra! 👋
 
-<img width="228" height="317" alt="image" src="https://github.com/user-attachments/assets/7acd2fe3-c6a1-43ce-9490-dd3ee31a048b" />
+<img width="128" height="217" alt="image" src="https://github.com/user-attachments/assets/7acd2fe3-c6a1-43ce-9490-dd3ee31a048b" />
 
 
 ## About Me 🚀
